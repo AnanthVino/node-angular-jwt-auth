@@ -1,0 +1,11 @@
+
+.push-down1 {
+	margin-top: 100px;
+}
+.navbar-inverse {
+	background-color: rgba(0,0,0,0.5);
+	border: none;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+	background-color: rgba(0,0,0,0.5);
+}
